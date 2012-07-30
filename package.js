@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Moment JS repackaged for Meteor"
+  summary: "Moment JS packaged for Meteor"
 });
 
 Package.on_use(function (api) {
