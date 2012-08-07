@@ -3,5 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.add_files('moment.js', 'client');
+  api.add_files('lib/moment/moment.js', 'client');
 });
