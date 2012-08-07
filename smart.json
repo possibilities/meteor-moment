@@ -3,6 +3,6 @@
   "description": "Moment JS packaged for Meteor",
   "homepage": "https://github.com/possibilities/meteor-moment",
   "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)",
-  "version": "1.6.2",
+  "version": "1.7.0",
   "git": "https://github.com/possibilities/meteor-moment.git"
 }
