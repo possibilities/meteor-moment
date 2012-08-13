@@ -1,3 +1,3 @@
 # Moment for Meteor
 
-Moment JS packaged for Meteor
+Moment.js packaged for Meteor
